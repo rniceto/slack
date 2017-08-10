@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Slack incoming web-hook URL and user name
-url='https://hooks.slack.com/services/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'
-username='Zabbix'
+url=''
+username='app'
 
 ## Values received by this script:
 # To = $1 (Slack channel or user to send the message to, specified in the Zabbix web interface; "@username" or "#channel")
