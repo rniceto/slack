@@ -1,4 +1,6 @@
 #!/bin/bash
+################### FORKED https://github.com/ericoc/zabbix-slack-alertscript #####################
+
 
 # Slack incoming web-hook URL and user name
 url=''
